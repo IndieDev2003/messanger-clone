@@ -28,7 +28,7 @@ const AuthForm = () => {
     },
   });
 
-  return <div></div>;
+  return <div>Auth Form Here</div>;
 };
 
 export default AuthForm;
